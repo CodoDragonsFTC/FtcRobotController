@@ -79,7 +79,7 @@ public class TestMotorAndroidStudio extends LinearOpMode {
 //MATTHEW IS SO COOL
 
         //matthew is a matthew
-        //matthew yang
+        //matteew yang
         //hi im matthew
 
         // Initialize the hardware variables. Note that the strings used here must correspond
